@@ -5,10 +5,10 @@
  */
 
 // ── Base de datos ──
-define('DB_HOST', 'sql303.iceiy.com');
-define('DB_NAME', 'icei_41413480_cooperativa_flb');
-define('DB_USER', 'icei_41413480');
-define('DB_PASS', 'laurachino007');
+define('DB_HOST', 'sql333.iceiy.com');
+define('DB_NAME', 'icei_41413470_cooperativa_flb');
+define('DB_USER', 'icei_41413460');
+define('DB_PASS', 'jajaja te la creiste');
 
 // ── MercadoPago ──
 define('MP_PUBLIC_KEY',   'TEST-a1cbcc07-6abb-48cd-885e-d59c9925bb26');
